@@ -58,6 +58,4 @@ app/src/main/java/com/example/a24012011221_raju_prac7_mad/
 
    ## screenshot
    <img width="377" height="783" alt="image" src="https://github.com/user-attachments/assets/a3c88903-13df-40b6-856b-9ba0b840056d" />
-   ## Author
-   Raju kumar
-
+   
