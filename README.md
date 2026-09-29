@@ -54,3 +54,10 @@ app/src/main/java/com/example/a24012011221_raju_prac7_mad/
 1. **Clone or Open** the project in Android Studio (Arctic Fox or newer recommended).
 2. **Sync Gradle:** Ensure all Gradle dependencies are downloaded and synced (`build.gradle.kts`).
 3. **Run the App:** Connect an Android device or start an Emulator (API 24+) and click **Run** (`Shift + F10`).
+
+
+   ## screenshot
+   <img width="377" height="783" alt="image" src="https://github.com/user-attachments/assets/a3c88903-13df-40b6-856b-9ba0b840056d" />
+   ## Author
+   Raju kumar
+
