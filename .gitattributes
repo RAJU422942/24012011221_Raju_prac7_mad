@@ -1,0 +1,7 @@
+# Explicitly set Kotlin language and handle generated Android resources for GitHub Linguist
+*.kt linguist-language=Kotlin
+
+# Mark Android resource files as generated so core Kotlin code drives the language stats
+app/src/main/res/** linguist-generated=true
+app/src/androidTest/** linguist-generated=true
+app/src/test/** linguist-generated=true
